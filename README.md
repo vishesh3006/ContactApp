@@ -1,5 +1,5 @@
-# ContactApp
-ContactApp is a simple Phone app which gives you options to :
+# ContactManager
+ContactManager is a simple Contact App which gives you options to :
 1. Create new contacts
 2. View all the contacts.
 3. Edit a contact.
